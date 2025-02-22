@@ -1,0 +1,10 @@
+Library/
+.DS_Store
+.Trash/
+node_modules/
+env/
+.idea/
+.vscode/
+.cache/
+log/
+logs/
